@@ -21,6 +21,25 @@
 
 ⬇️ 安装 Pintia: [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=jinzcdev.vscode-pintia), [VS Code (推荐)](https://code.visualstudio.com/) or [Install from VSIX](https://github.com/jinzcdev/vscode-pintia/releases/latest)
 
+# 拼题A 公共题集题解
+
+该仓库收录 **拼题A** 公共习题的题解
+> 推荐使用VS Code 插件：[vscode-pintia](https://github.com/jinzcdev/vscode-pintia) 刷题，可以快速在插件中定位题解链接。
+
+全部习题均已 AC 的题集如下：
+
+- 基础编程题目集
+- 数据结构与算法题目集（中文）
+- 浙大版《数据结构（第2版）》题目集
+- 中国大学MOOC-陈越、何钦铭-数据结构-起步能力自测题
+- PAT (Basic Level) Practice （中文）
+- PAT (Advanced Level) Practice
+
+---
+
+**PAT (Basic Level) Practice （中文）**
+https://pintia.cn/problem-sets/dashboard
+
 ## 0. 运行条件
 
 - [VS Code 1.66.0+](https://code.visualstudio.com/)
